@@ -1,38 +1,21 @@
 # Data-cleaning
 
-**Data cleaning**
-**1.	Load the Dataset:**
-○	Start by loading the dataset into a suitable data structure, such as a Pandas DataFrame, and get an initial sense of the data by printing the first few rows.
+**Title: Data Cleaning of Data scientist jobs**
 
-**2.	Handling Missing Values:**
-○	Identify columns with missing values.
-○	Decide how to handle these missing values: remove rows, impute missing values, or replace with a default value.
+**Step 1:** Importing libraries and loading CSV file.
 
-**3.	Data Type Conversion:**
-○	Check the data types of all columns and convert them to appropriate types (e.g., convert string dates to datetime objects, or strings that are actually numbers to numeric types).
+**Step 2:** Dropping irrelevant columns.
 
-**4.	Remove Duplicates:**
-○	Check for and remove duplicate rows if necessary.
+**Step 3:** Checking for null values and replacing them with "NA" or 0.
 
-**5.	Outlier Detection and Treatment:**
-○	Use statistical methods to identify outliers in the dataset.
-○	Decide on the approach for handling outliers (e.g., removing them, capping them, etc.)
+**Step 4:** Extracting characters not needed from salary estimates and creating new columns for minimum, maximum, and average salary.
 
-**6.	Normalization and Standardization:**
-○	Decide if the numerical data needs to be normalized or standardized, based on the analysis you plan to do next.
+**Step 5:** Splitting company names after "\n".
 
-**7.	Categorical Data Handling:**
-○	Identify categorical data and decide how to handle them (e.g., One-Hot Encoding, Label Encoding).
+**Step 6:** Extracting company age from the founded column and dropping the founded column.
 
-**8.	Text Data Cleaning (if applicable):**
-○	If the dataset contains text data, clean it by removing unnecessary white spaces, correcting typos, and standardizing text (e.g., lowercasing).
+**Step 7:** Creating a new column "same state" (0,1) after checking whether the office and headquarters are in the same state.
 
+**Step 8:** Creating seven boolean variables for Python, Excel, Hadoop, Spark, AWS, Tableau, and Big Data from the job description.
 
-**Data Exploration:**
-**1.	Summary Statistics:**
-○	Generate summary statistics for the dataset to get a sense of the distribution of data in numeric columns (mean, median, standard deviation, etc.)
-2.	Univariate Analysis:
-○	Analyze single variables through histograms, box plots, and frequency counts for categorical variables.
-
-
-**TOOLS USED :-** Python
+**Step 9:** Exporting this data to a new CSV file named "dsjobs_cleaned".
