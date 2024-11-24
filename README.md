@@ -8,7 +8,7 @@ As a data analyst, I first cleaned and prepared the dataset to ensure its accura
 
 [Data Cleaning & EDA](https://github.com/NishaChandila/Data-cleaning/blob/main/Data%20Cleaning%20and%20Transformatin%20%5BDS%20jobs%5D.ipynb)  
 [Dataset here](https://github.com/NishaChandila/Data-cleaning/blob/main/Dsjobs_cleaned.csv)  
-[Power BI Dashboard](#)
+[Power BI Dashboard](https://github.com/NishaChandila/Data-cleaning/blob/main/Jobs-Dashboard.pdf)
 
 ## **Data Structure**
 
@@ -66,7 +66,7 @@ This project focuses on analyzing **job market trends**, with a particular empha
 
 In conclusion, the insights derived from the dataset provide valuable guidance for job seekers and employers. Job seekers can focus on high-paying industries like **Investment Banking** or **Publishing**, while employers can use the data to benchmark salaries and understand industry-specific trends.
 
-[Power BI Dashboard](#)
+[Power BI Dashboard](https://github.com/NishaChandila/Data-cleaning/blob/main/Jobs-Dashboard.pdf)
 
 ## **Data Cleaning & EDA**
 
@@ -106,4 +106,4 @@ In conclusion, this job market analysis project has provided valuable insights i
 
 [Data Cleaning & EDA](https://github.com/NishaChandila/Data-cleaning/blob/main/Data%20Cleaning%20and%20Transformatin%20%5BDS%20jobs%5D.ipynb)  
 [Dataset here](https://github.com/NishaChandila/Data-cleaning/blob/main/Dsjobs_cleaned.csv)  
-[Power BI Dashboard](#)
+[Power BI Dashboard](https://github.com/NishaChandila/Data-cleaning/blob/main/Jobs-Dashboard.pdf)
