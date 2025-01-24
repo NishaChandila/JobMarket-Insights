@@ -6,9 +6,9 @@ My project focuses on **Job Market Analysis**, where I analyze trends related to
 
 As a data analyst, I first cleaned and prepared the dataset to ensure its accuracy, removing duplicates, handling missing values, and standardizing formats. Afterward, I created an interactive **Power BI dashboard** designed for non-technical stakeholders. The dashboard uses clear visuals like charts, KPIs, and slicers to provide an easy-to-understand overview of job market trends and key metrics, allowing stakeholders to explore the data and make informed decisions.
 
-[Data Cleaning & EDA](https://github.com/NishaChandila/Data-cleaning/blob/main/Data%20Cleaning%20and%20Transformatin%20%5BDS%20jobs%5D.ipynb)  
-[Dataset here](https://github.com/NishaChandila/Data-cleaning/blob/main/Dsjobs_cleaned.csv)  
-[Power BI Dashboard](https://github.com/NishaChandila/Data-cleaning/blob/main/Jobs-Dashboard.pdf)
+- Job Market [Data Cleaning & EDA](https://github.com/NishaChandila/Data-cleaning/blob/main/Data%20Cleaning%20and%20Transformatin%20%5BDS%20jobs%5D.ipynb)  
+- Job Market [Dataset here](https://github.com/NishaChandila/Data-cleaning/blob/main/Dsjobs_cleaned.csv)  
+- Job Market [Power BI Dashboard](https://github.com/NishaChandila/Data-cleaning/blob/main/Jobs-Dashboard.pdf)
 
 ## **Data Structure**
 
@@ -45,7 +45,7 @@ The dataset used in this project contains detailed job market information, focus
 - **Tableau**: Indicates if the job requires Tableau as a skill.
 - **Big Data**: Indicates if the job requires Big Data skills.
 
-[Dataset here](https://github.com/NishaChandila/Data-cleaning/blob/main/Dsjobs_cleaned.csv)  
+- Job Market [Dataset here](https://github.com/NishaChandila/Data-cleaning/blob/main/Dsjobs_cleaned.csv)  
 
 ## **Executive Summary**
 
@@ -66,7 +66,7 @@ This project focuses on analyzing **job market trends**, with a particular empha
 
 In conclusion, the insights derived from the dataset provide valuable guidance for job seekers and employers. Job seekers can focus on high-paying industries like **Investment Banking** or **Publishing**, while employers can use the data to benchmark salaries and understand industry-specific trends.
 
-[Power BI Dashboard](https://github.com/NishaChandila/Data-cleaning/blob/main/Jobs-Dashboard.pdf)
+- Job Market [Power BI Dashboard](https://github.com/NishaChandila/Data-cleaning/blob/main/Jobs-Dashboard.pdf)
 
 ## **Data Cleaning & EDA**
 
@@ -76,7 +76,7 @@ The first step in the analysis was cleaning the dataset to ensure accuracy and c
 - **Removed Irrelevant Symbols**: Eliminated unnecessary symbols and extra spaces from columns like salary and company names.
 - **Extracted Skills**: Key skills such as Python, Excel, and AWS were extracted from job descriptions and added to the dataset.
 
-[Data Cleaning & EDA](https://github.com/NishaChandila/Data-cleaning/blob/main/Data%20Cleaning%20and%20Transformatin%20%5BDS%20jobs%5D.ipynb) 
+- Job Market [Data Cleaning & EDA](https://github.com/NishaChandila/Data-cleaning/blob/main/Data%20Cleaning%20and%20Transformatin%20%5BDS%20jobs%5D.ipynb) 
 
 ## **Recommendations**
 
@@ -104,6 +104,6 @@ These recommendations provide a roadmap for both job seekers to target lucrative
 
 In conclusion, this job market analysis project has provided valuable insights into salary trends and job availability across different industries. After cleaning the dataset and creating an interactive Power BI dashboard, the complex data is now easily accessible for both job seekers and employers. Key findings include that **Data Scientists** and **Computer Scientists** earn an average salary of **$271,000**, while **Investment Banking** and **Asset Management** industries have the highest job counts, with **13%** of all listings. The dashboard highlights trends such as the higher salaries offered by **private companies** (**397** listings) compared to **public companies** (**153** listings), and the significant salary variations across industries, with **Publishing** offering the highest average salary of **$271,000**. This project offers stakeholders a data-driven approach to make informed decisions on salary expectations, hiring strategies, and career planning, making it a valuable tool for navigating the job market.
 
-[Data Cleaning & EDA](https://github.com/NishaChandila/Data-cleaning/blob/main/Data%20Cleaning%20and%20Transformatin%20%5BDS%20jobs%5D.ipynb)  
-[Dataset here](https://github.com/NishaChandila/Data-cleaning/blob/main/Dsjobs_cleaned.csv)  
-[Power BI Dashboard](https://github.com/NishaChandila/Data-cleaning/blob/main/Jobs-Dashboard.pdf)
+- Job Market [Data Cleaning & EDA](https://github.com/NishaChandila/Data-cleaning/blob/main/Data%20Cleaning%20and%20Transformatin%20%5BDS%20jobs%5D.ipynb)  
+- Job Market [Dataset here](https://github.com/NishaChandila/Data-cleaning/blob/main/Dsjobs_cleaned.csv)  
+- Job Market [Power BI Dashboard](https://github.com/NishaChandila/Data-cleaning/blob/main/Jobs-Dashboard.pdf)
